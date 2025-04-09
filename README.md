@@ -1,10 +1,3 @@
----
-title: Neural Nurture
----
-
-<!-- Load custom CSS -->
-<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
-
 # Neural Nurture
 
 ### Democratizing AI for Every Student
